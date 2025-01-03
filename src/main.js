@@ -1,4 +1,4 @@
-//import './style.css'
+import './style.css'
 import { Elm } from './Hello.elm'
 
 // Mount "Hello" Browser.{element,document} on #root
